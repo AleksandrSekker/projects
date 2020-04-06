@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.b9be2ab9.chunk.css",
-    "main.js": "/projects/static/js/main.f4c7532c.chunk.js",
-    "main.js.map": "/projects/static/js/main.f4c7532c.chunk.js.map",
-    "runtime-main.js": "/projects/static/js/runtime-main.ae4e38c5.js",
-    "runtime-main.js.map": "/projects/static/js/runtime-main.ae4e38c5.js.map",
-    "static/js/2.beb512fd.chunk.js": "/projects/static/js/2.beb512fd.chunk.js",
-    "static/js/2.beb512fd.chunk.js.map": "/projects/static/js/2.beb512fd.chunk.js.map",
-    "index.html": "/projects/index.html",
-    "precache-manifest.e2ec886317717b7fef1829ae820d8a54.js": "/projects/precache-manifest.e2ec886317717b7fef1829ae820d8a54.js",
-    "service-worker.js": "/projects/service-worker.js",
-    "static/css/main.b9be2ab9.chunk.css.map": "/projects/static/css/main.b9be2ab9.chunk.css.map",
-    "static/js/2.beb512fd.chunk.js.LICENSE.txt": "/projects/static/js/2.beb512fd.chunk.js.LICENSE.txt",
-    "static/media/clinic.png": "/projects/static/media/clinic.d191e198.png",
-    "static/media/gallery.png": "/projects/static/media/gallery.59f2184d.png",
-    "static/media/open.png": "/projects/static/media/open.094f60ac.png",
-    "static/media/restaurant.png": "/projects/static/media/restaurant.914396e2.png"
+    "main.css": "/projects/home/static/css/main.b9be2ab9.chunk.css",
+    "main.js": "/projects/home/static/js/main.202e28c9.chunk.js",
+    "main.js.map": "/projects/home/static/js/main.202e28c9.chunk.js.map",
+    "runtime-main.js": "/projects/home/static/js/runtime-main.44e6148b.js",
+    "runtime-main.js.map": "/projects/home/static/js/runtime-main.44e6148b.js.map",
+    "static/js/2.37e8d6ed.chunk.js": "/projects/home/static/js/2.37e8d6ed.chunk.js",
+    "static/js/2.37e8d6ed.chunk.js.map": "/projects/home/static/js/2.37e8d6ed.chunk.js.map",
+    "index.html": "/projects/home/index.html",
+    "precache-manifest.4e7b3e789fefc149d6a16a23e9b0d4a5.js": "/projects/home/precache-manifest.4e7b3e789fefc149d6a16a23e9b0d4a5.js",
+    "service-worker.js": "/projects/home/service-worker.js",
+    "static/css/main.b9be2ab9.chunk.css.map": "/projects/home/static/css/main.b9be2ab9.chunk.css.map",
+    "static/js/2.37e8d6ed.chunk.js.LICENSE.txt": "/projects/home/static/js/2.37e8d6ed.chunk.js.LICENSE.txt",
+    "static/media/clinic.png": "/projects/home/static/media/clinic.d191e198.png",
+    "static/media/gallery.png": "/projects/home/static/media/gallery.59f2184d.png",
+    "static/media/open.png": "/projects/home/static/media/open.094f60ac.png",
+    "static/media/restaurant.png": "/projects/home/static/media/restaurant.914396e2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae4e38c5.js",
-    "static/js/2.beb512fd.chunk.js",
+    "static/js/runtime-main.44e6148b.js",
+    "static/js/2.37e8d6ed.chunk.js",
     "static/css/main.b9be2ab9.chunk.css",
-    "static/js/main.f4c7532c.chunk.js"
+    "static/js/main.202e28c9.chunk.js"
   ]
 }
